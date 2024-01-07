@@ -1,10 +1,10 @@
 :root {
     --red-color:#ff0000
 }
-.a[href="https://www.youtube.com/"] {
+a[href="https://www.youtube.com/"] {
   color: var(--red-color)
 }
-.a[href="https://validator.w3.org/"] {
+a[href="https://validator.w3.org/"] {
   color: var(--red-color)
 }
 .ul+p {
