@@ -3,7 +3,7 @@
 }
 
 a[href^="https"] {
-  color:var(--red-color)
+  color:var(--red-color);
 }
 
 ul+p{
